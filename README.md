@@ -55,7 +55,7 @@ Figure -02 HALF Subtractor
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-
+![image](https://github.com/Sivanth-AK/HALF_ADDER_SUBTRACTOR/blob/main/circuit%20diagram.jpeg)
 **Output/TIMING Waveform**
 
 **Result:**
